@@ -1,138 +1,62 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY 🇲🇾",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV3
+http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
+https://restream-bay.vercel.app/?id=352112&e=.m3u8
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="MY 🇲🇾",Dunia Sinema HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" tvg-name="Astro Awani HD" group-title="News" group-logo="https://iili.io/fyuagEX.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=DuniaSin
+https://service.samproject.my.id/unifi/DuniaSin.mpd
 
-
+#EXTINF:-1 tvg-id="121.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title="MY 🇲🇾",SIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E7uCnOSDbM90BxxFmTl4xQ", "kid":"ft871ZDPM39yGi5b7DYVEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="News" group-logo="https://da.gd/ffliqnews" tvg-logo="https://iili.io/1me2Qj.png",DW English CH521
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd?token=34892mndsf3h.mpd
-  
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=SIAR
+https://service.samproject.my.id/unifi/SIAR.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=530" group-title="MY 🇲🇾",Sensasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
-#EXTINF:-1 tvg-id="France24" tvg-name="France24" group-title="News" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1mezTg.png",France24 CH522
-#https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
+#KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Sensasi
+https://service.samproject.my.id/unifi/Sensasi.mpd
+https://mimipipi22.github.io/logo/offline.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
-#EXTINF:-1 tvg-id="France.24.English.id" tvg-name="France 24 English" tvg-logo="https://iili.io/1mezTg.png" group-title="News",France24 CH522
-https://atemeshield1-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
-
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title="MY 🇲🇾",DEGUP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News HD" group-title="News" tvg-logo="https://iili.io/1NnVVf.png",Sky News HD CH514
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="501" ch-number:"AstroAwani" ch-number=" " tvg-name="Astro Awani HD" group-title="News" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/logojepstore/NEWSLOGO.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astro Awani 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=DEGUP
+https://service.samproject.my.id/unifi/DEGUP.mpd
 
-#EXTINF:-1 tvg-id="502" ch-number="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",Bernama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
-
-#EXTINF:-1 tvg-id="RTMK05" ch-number=" " tvg-name="BERITA RTM" group-title="News" tvg-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/logojepstore/BERITARTM.png",Berita RTM
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-
-
-
-
+#EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=530" group-title="MY 🇲🇾",Salam HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d+wO6yHAeBL9fFhig2bMsw", "kid":"AXZ9HCMVwOlVb0d/sfDHEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="512" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" ch-number="512",BBC World News 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Salam
+https://service.samproject.my.id/unifi/Salam.mpd
 
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5 
-#EXTINF:-1 tvg-id="515" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",CNA 
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mpd/CNAHD.mpd 
-
-
-#EXTINF:-1 tvg-id="511" ch-number="511" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN 
+#EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530" group-title="MY 🇲🇾",Inspirasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v34bl1VcSst0VfcRsqn/Fg","kid":"G2GKKRzs5EyYRd3fxP2bEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Inspirasi
+https://service.samproject.my.id/unifi/Inspirasi.mpd
 
-
-
-#EXTINF:-1 tvg-id="CNBCAsia.sg" group-title="News" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516",CNBC Asia 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YCgnqHDUmGLRoj8pEpV7TA","kid":"w6OPE0BTF1mhype8XYDIEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
-
-#EXTINF:-1 tvg-id="CNBCAsia" ch-number=" " tvg-name="CNBC Asia" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
-
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV HD" group-title="News" group-logo="" tvg-logo="https://get.perfecttv.net/logo/bloombergtv.png", Bloomberg Tv
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Bloomberg.id" tvg-name="Bloomberg TV" tvg-logo="https://get.perfecttv.net/logo/bloombergtv.png" group-title="News",Bloomberg Tv
-https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
-
-#EXTINF:-1 tvg-id="503" ch-number="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nnBhYfAvuZy2ktKWVHBJTg","kid":"/GbvDuNbW6Y53A4TxfipEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
-#https://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="514" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" ch-number="514",Sky News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sNrddLcT5LKf0n4UfK5xMw","kid":"S+9/wby2vX8ofe+UDjjLEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
-#https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-r2.thebrag.com/mw/uploads/2023/03/Sky-News-3.jpg" group-title="News",Sky News
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="513" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",Al Jazeera English 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bDxJgROr/99FTck1MZp5TQ","kid":"sfvQh055I/WwWSmgQqoGEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
-#https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-  
-#EXTINF:-1 tvg-id="WPIXDT1.us" group-title="News"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png",PIX11 (720p)
-#https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
